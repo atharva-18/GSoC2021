@@ -3,7 +3,7 @@ Google Summer of Code Project with Open Robotics - New GUI Widgets in Ignition G
 
 ![GSoC](images/main_page.png)
 
-This repository describes my work during the Google Summer of Code 2021 with Open Robotics.
+This repository describes my work during the Google Summer of Code 2021 program with Open Robotics.
 
 ## Project Description
 
@@ -80,3 +80,16 @@ The non-programming was just as much of an experience if not more. The weekly te
 
 The work has definitely helped improve my programming skills, and I learned a great deal about 3D rendering and physics simulation.
 
+## About Me
+
+I am a final-year undergraduate engineering student at DJ Sanghvi College of Engineering, University of Mumbai pursuing Electronics Engineering.
+
+
+I primarily work with autonomous robotics and self-driving software. I have been a part of the Formula Student team of my institute where we are building a self-developed autonomous race-car. Through the team, I gained hands-on experience in robot navigation and perception, and motivated me to further explore ROS and Gazebo. I have also worked at a startup to develop and deploy autonomous navigation software for use in warehouse environments.
+
+During my time at Open Robotics, I had the oppurtunity to directly work on features that were used by users in the robotics industry and academia.
+
+Thank you for reading.
+
+Kind Regards\
+Atharva Pusalkar
