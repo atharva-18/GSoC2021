@@ -87,7 +87,7 @@ ign gazebo -v 4 visualization_demo.sdf
 
 I thank my mentor, Alejandro Hernández Cordero, for supporting and guiding me during the entire program and before it. Thanks to the whole Open Robotics team for providing me with this opportunity, reviewing my work, and assisting me with the project.
 
-The non-programming was just as much of an experience, if not more. The weekly team meetings were a great way of looking into project management and workflows. Now, I am looking forward to giving my project presentation at the Ignition Fortress Demos Community Meeting.
+The non-programming part was just as much of an experience, if not more. The weekly team meetings were a great way of looking into project management and workflows. Now, I am looking forward to giving my project presentation at the Ignition Fortress Demos Community Meeting.
 
 The work has helped me improve my programming skills, and I learned a great deal about 3D rendering and physics simulation.
 
