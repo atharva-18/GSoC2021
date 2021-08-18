@@ -98,6 +98,6 @@ I am a final-year undergraduate engineering student at DJ Sanghvi College of Eng
 
 I primarily work with autonomous robotics and self-driving software. I have been a part of the Formula Student team of my institute where we are building a self-developed autonomous race car. Through the team, I gained hands-on experience in robot navigation and perception and motivated me to further explore ROS and Gazebo. I have also worked at a startup to develop and deploy autonomous navigation software for use in warehouse environments.
 
-During my time at Open Robotics, I had the opportunity to directly work on features that were being used by users in the robotics industry and academia.
+During my time at Open Robotics, I had the opportunity to directly work on features that were being used by people in the robotics industry and academia.
 
 Thank you for reading.
