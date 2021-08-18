@@ -72,13 +72,24 @@ We hope that this project will provide a better user experience to existing user
 
 These new visualizations will be released to the public with Ignition Fortress in September 2021.
 
+## Testing
+
+You can test the new features by installing Ignition Fortress from Nightly builds and using the demo world provided in this repository.
+
+After downloading, you can run the simulation by
+```
+ign gazebo -v 4 visualization_demo.sdf
+```
+
+![Testing](images/testing.gif)
+
 ## Acknowledgments
 
-I would like to thank my mentor, Alejandro Hernández Cordero for being a great mentor and helping me during the entire program and before it as well. Thanks to the entire Open Robotics team for providing me with this opportunity, reviewing my work, and guiding me in the way.
+I thank my mentor, Alejandro Hernández Cordero, for supporting and guiding me during the entire program and before it. Thanks to the whole Open Robotics team for providing me with this opportunity, reviewing my work, and assisting me with the project.
 
-The non-programming was just as much of an experience if not more. The weekly team meetings were a great way of looking into project management and workflows. Now, I am looking forward to giving my project presentation at the Fortress Demos Community Meeting.
+The non-programming was just as much of an experience, if not more. The weekly team meetings were a great way of looking into project management and workflows. Now, I am looking forward to giving my project presentation at the Ignition Fortress Demos Community Meeting.
 
-The work has helped improve my programming skills, and I learned a great deal about 3D rendering and physics simulation.
+The work has helped me improve my programming skills, and I learned a great deal about 3D rendering and physics simulation.
 
 ## About Me
 
