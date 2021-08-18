@@ -15,11 +15,11 @@ Due to the growing user base of the newer simulator, with finding its applicatio
 
 ## Project Breakdown
 
-This project involves working on two Ignition projects - Gazebo and Rendering. The visual classes are first added to the Rendering library which are then consumed by the downstream Gazebo project. A total of 9 pull requests were made during the course of this project.
+This project involves working on two Ignition projects - Gazebo and Rendering. The visual classes are first added to the Rendering library which is then consumed by the downstream Gazebo project. A total of 9 pull requests were made during this project.
 
 ### Visualize as Wireframe
 
-Users often need to debug their 3D meshes, hence we added a wireframe mode to visuals, similar to Gazebo Classic
+Users often need to debug their 3D meshes, hence we added a wireframe rendering mode to visuals, similar to Gazebo Classic
 
 Ignition Rendering Pull Request - https://github.com/ignitionrobotics/ign-rendering/pull/314
 
@@ -66,28 +66,28 @@ Ignition Gazebo Pull Request - https://github.com/ignitionrobotics/ign-gazebo/pu
 ![Joints](images/joints.gif)
 
 
-Besides the abovementioned, I have also added features such as the about dialog and light intensity fields during the pre-GSOC period.
+Besides the above-mentioned, I have also added features such as the about dialog and light intensity fields during the pre-GSOC period.
 
 We hope that this project will provide a better user experience to existing users and bring more people under the Ignition project by reducing the feature gap between the two simulators.
 
-These new visualization will be released to the public with Ignition Fortress in September 2021.
+These new visualizations will be released to the public with Ignition Fortress in September 2021.
 
-## Acknowledgements
+## Acknowledgments
 
-I would like to thank my mentor, Alejandro Hernández Cordero for being a great mentor and helping me during the entire program and before it as well. Thanks to the entire Open Robotics team for providing me with this oppurtunity, reviewing my work, and guiding me in the way.
+I would like to thank my mentor, Alejandro Hernández Cordero for being a great mentor and helping me during the entire program and before it as well. Thanks to the entire Open Robotics team for providing me with this opportunity, reviewing my work, and guiding me in the way.
 
-The non-programming was just as much of an experience if not more. The weekly team meetings were a great way of looking into project management and workflows. Now, I am looking forward to give my project presentation at the Fortress Demos Community Meeting.
+The non-programming was just as much of an experience if not more. The weekly team meetings were a great way of looking into project management and workflows. Now, I am looking forward to giving my project presentation at the Fortress Demos Community Meeting.
 
-The work has definitely helped improve my programming skills, and I learned a great deal about 3D rendering and physics simulation.
+The work has helped improve my programming skills, and I learned a great deal about 3D rendering and physics simulation.
 
 ## About Me
 
 I am a final-year undergraduate engineering student at DJ Sanghvi College of Engineering, University of Mumbai pursuing Electronics Engineering.
 
 
-I primarily work with autonomous robotics and self-driving software. I have been a part of the Formula Student team of my institute where we are building a self-developed autonomous race-car. Through the team, I gained hands-on experience in robot navigation and perception, and motivated me to further explore ROS and Gazebo. I have also worked at a startup to develop and deploy autonomous navigation software for use in warehouse environments.
+I primarily work with autonomous robotics and self-driving software. I have been a part of the Formula Student team of my institute where we are building a self-developed autonomous race car. Through the team, I gained hands-on experience in robot navigation and perception and motivated me to further explore ROS and Gazebo. I have also worked at a startup to develop and deploy autonomous navigation software for use in warehouse environments.
 
-During my time at Open Robotics, I had the oppurtunity to directly work on features that were used by users in the robotics industry and academia.
+During my time at Open Robotics, I had the opportunity to directly work on features that were being used by users in the robotics industry and academia.
 
 Thank you for reading.
 
