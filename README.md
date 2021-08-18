@@ -101,6 +101,3 @@ I primarily work with autonomous robotics and self-driving software. I have been
 During my time at Open Robotics, I had the opportunity to directly work on features that were being used by users in the robotics industry and academia.
 
 Thank you for reading.
-
-Kind Regards\
-Atharva Pusalkar
