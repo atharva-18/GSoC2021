@@ -39,7 +39,7 @@ Ignition Gazebo Pull Request - https://github.com/ignitionrobotics/ign-gazebo/pu
 
 Visualize the inertia of a robot model or link using its physics inertia properties (No more adding values in SDF files blindly).
 
-Ignition Rendering Pull Request - https://github.com/ignitionrobotics/ign-rendering/pull/314
+Ignition Rendering Pull Request - https://github.com/ignitionrobotics/ign-rendering/pull/326
 
 Ignition Gazebo Pull Request - https://github.com/ignitionrobotics/ign-gazebo/pull/861
 
@@ -49,7 +49,7 @@ Ignition Gazebo Pull Request - https://github.com/ignitionrobotics/ign-gazebo/pu
 
 Visualize the center of mass of a robot model or link, using the same inertia values.
 
-Ignition Rendering Pull Request - https://github.com/ignitionrobotics/ign-rendering/pull/314
+Ignition Rendering Pull Request - https://github.com/ignitionrobotics/ign-rendering/pull/345
 
 Ignition Gazebo Pull Request - https://github.com/ignitionrobotics/ign-gazebo/pull/903
 
