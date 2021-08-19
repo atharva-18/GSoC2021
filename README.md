@@ -15,7 +15,11 @@ Due to the growing user base of the newer simulator, with finding its applicatio
 
 ## Project Breakdown
 
-This project involves working on two Ignition projects - Gazebo and Rendering. The visual classes are first added to the Rendering library which is then consumed by the downstream Gazebo project. A total of 9 pull requests were made during this project.
+This project involves working on two Ignition libraries - Gazebo and Rendering. The visual classes are first added to the Rendering library which is then consumed by the downstream Gazebo project. A total of 9 pull requests were made during this project:
+
+[Ignition Gazebo](https://github.com/ignitionrobotics/ign-gazebo/pulls?q=is%3Apr+author%3A%22atharva-18%22+created%3A%3E2021-05-01+closed%3A%3C2021-10-01++is%3Aclosed+)
+
+[Ignition Rendering](https://github.com/ignitionrobotics/ign-rendering/pulls?q=is%3Apr+author%3A%22atharva-18%22+created%3A%3E2021-05-01+closed%3A%3C2021-10-01++is%3Aclosed+)
 
 ### Visualize as Wireframe
 
