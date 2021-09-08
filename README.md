@@ -59,7 +59,7 @@ Ignition Gazebo Pull Request - https://github.com/ignitionrobotics/ign-gazebo/pu
 
 ![CoM](images/com.gif)
 
-### Visualize Joints (Under progress)
+### Visualize Joints
 
 You can now visualize the joints of a robot while simulating or building it. This visualization will be extended in the future to planned features such as the model and joint editor.
 
